@@ -1,0 +1,6 @@
+{
+  "bot_name": "Task Reward Bot",
+  "default_language": "en",
+  "currency_label": "points",
+  "max_pending_display": 20
+}
